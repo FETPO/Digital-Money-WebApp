@@ -1,0 +1,13 @@
+map $http_upgrade $connection_upgrade {
+    default upgrade;
+    ''      close;
+}
+
+map "${WEBSOCKET_ENABLE}" $disabled_websocket {
+    default "1";
+    "true"  "0";
+}
+
+include ${NGINX_DEFAULT_CONFIG};
+
+include ${NGINX_WEBSOCKET_CONFIG};

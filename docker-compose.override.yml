@@ -1,0 +1,56 @@
+version: '3'
+services:
+    application:
+        depends_on:
+            - mysql
+            - redis
+            - bitgo
+            - ethereum-api
+            - binance-api
+
+    bitgo:
+        image: bitgosdk/express:latest
+        restart: unless-stopped
+        environment:
+            BITGO_ENV: '${BITGO_ENV:-test}'
+            BITGO_PORT: '${BITGO_PORT:-4000}'
+            BITGO_DISABLE_SSL: 1
+        networks:
+            - neoscrypts
+
+    geth:
+        image: ethereum/client-go:latest
+        restart: unless-stopped
+        volumes:
+            - 'neoscrypts-geth:/root'
+        networks:
+            - neoscrypts
+        command: --"${GETH_NETWORK:-mainnet}" --syncmode "${GETH_MODE:-light}" --ws --ws.addr 0.0.0.0
+
+    ethereum-api:
+        image: neoscrypts/ethereum-api:3
+        restart: unless-stopped
+        environment:
+            HOST_UID: '${HOST_UID:-1000}'
+            ETHEREUM_WS: '${ETHEREUM_WS:-ws://geth:8546}'
+        volumes:
+            - './storage/ethereum:/home/node/storage'
+        networks:
+            - neoscrypts
+        depends_on:
+            - geth
+
+    binance-api:
+        image: neoscrypts/ethereum-api:3
+        restart: unless-stopped
+        environment:
+            HOST_UID: '${HOST_UID:-1000}'
+            ETHEREUM_WS: '${BINANCE_WS}'
+        volumes:
+            - './storage/binance:/home/node/storage'
+        networks:
+            - neoscrypts
+
+volumes:
+    neoscrypts-geth:
+        driver: local

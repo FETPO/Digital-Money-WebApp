@@ -1,0 +1,1790 @@
+{
+  "000a1a966f5e5aba0e7c": {
+    "string": "Update Settings"
+  },
+  "00a60ec8ca21b351da90": {
+    "string": "Terms Url"
+  },
+  "01cc43833c36daa85b74": {
+    "string": "Activate"
+  },
+  "01f9ab192dfa8dced6f4": {
+    "string": "Send Code"
+  },
+  "0230edb0ff991bc84733": {
+    "string": "Address was rejected."
+  },
+  "026b7ff1b9c6d47762e5": {
+    "string": "Minimum"
+  },
+  "02a8e7d84aee3766da24": {
+    "string": "Your purchase was successful."
+  },
+  "02ab7c76f53766561d7a": {
+    "string": "Add Bank Account"
+  },
+  "02c7d2aff85b15085982": {
+    "string": "Limit was updated"
+  },
+  "03219abb2739e5201054": {
+    "string": "Login"
+  },
+  "0398f700b380482966c9": {
+    "string": "Fee: {fee}"
+  },
+  "03ab0bf09341e0308711": {
+    "string": "Remember me"
+  },
+  "03b2b74beac03d049014": {
+    "string": "Account Setup"
+  },
+  "042ce676fea1b3534410": {
+    "string": "Maximum"
+  },
+  "049d932977bae810262d": {
+    "string": "Checkout"
+  },
+  "04ce35447f4ee80fa596": {
+    "string": "Bought At"
+  },
+  "058df8dc2ded5acc48ca": {
+    "string": "Change"
+  },
+  "05ad99847d4cef79110d": {
+    "string": "Relay Transaction"
+  },
+  "06e406a8045d16a72ef4": {
+    "string": "Search by number..."
+  },
+  "0725b971e179a7198f4a": {
+    "string": "Support Url"
+  },
+  "07484f99c40ba27362cb": {
+    "string": "Coin"
+  },
+  "0752cf7603293d663958": {
+    "string": "Access Forbidden"
+  },
+  "079d9b8cbd06b058a7e0": {
+    "string": "You are selling"
+  },
+  "084ad0d2502d4cb0b5e1": {
+    "string": "Country was added."
+  },
+  "08fda01d1363f3c1ebbe": {
+    "string": "There are no deposit methods available"
+  },
+  "093de9d49de076cd2e57": {
+    "string": "Exchange Fees"
+  },
+  "099d1059235143d11f66": {
+    "string": "System Logs"
+  },
+  "09c58949968a6e36a78d": {
+    "string": "No account selected!"
+  },
+  "09e357dedb87a62a03c7": {
+    "string": "Check your phone."
+  },
+  "0a067aaba204c5a9773b": {
+    "string": "Registration was successful."
+  },
+  "0a328f1d5075ec2fc55d": {
+    "string": "Trade was completed."
+  },
+  "0bc4fca78fa884337fa1": {
+    "string": "Verification code was sent."
+  },
+  "0bcd7fb867a420a7a255": {
+    "string": "Logout"
+  },
+  "0bd58612e25579c03d5a": {
+    "string": "of"
+  },
+  "0bdfb12ce4b62f018f90": {
+    "string": "${name} must be between ${min} and ${max} in length"
+  },
+  "0c798eb415de0623873a": {
+    "string": "Wallet was removed."
+  },
+  "0da40abe3e447057fb21": {
+    "string": "Import was successful."
+  },
+  "0e0f9a9a2214013b29e2": {
+    "string": "Operating Countries"
+  },
+  "0ea29de2b284f18100b5": {
+    "string": "Percent"
+  },
+  "0f1775b81c210d314837": {
+    "string": "Shop"
+  },
+  "0f789d62f48b17d3c427": {
+    "string": "Settings"
+  },
+  "1059d02d817adce4b0a3": {
+    "string": "Your settings was saved"
+  },
+  "10db10d65181f5855fba": {
+    "string": "Need some help?"
+  },
+  "110644707b395f2e36c4": {
+    "string": "All looks good!"
+  },
+  "1175b2346d0e34443280": {
+    "string": "Content was removed."
+  },
+  "1177762475e1afbf9b9a": {
+    "string": "Enable bell"
+  },
+  "11c8253fd66d230123f5": {
+    "string": "Key"
+  },
+  "12708e04908e3a61483a": {
+    "string": "Buy"
+  },
+  "1304483a68eea9166fb0": {
+    "string": "User"
+  },
+  "136efae25788e04b09d9": {
+    "string": "You will be notified here of any system logs when available."
+  },
+  "13b7ca854bab25d25737": {
+    "string": "Please set a strong and unique password."
+  },
+  "1498638333e31af912a9": {
+    "string": "Postcode"
+  },
+  "14e3d333e9eea9ee0263": {
+    "string": "Requirement was deleted."
+  },
+  "152fc71d5c9093c520f5": {
+    "string": "Giftcard was created."
+  },
+  "153fca9d0cad817590ee": {
+    "string": "Start your Crypto Portfolio today!"
+  },
+  "167937c9364bee1166a8": {
+    "string": "${name} cannot be empty"
+  },
+  "169c449584a900c7c1d3": {
+    "string": "Verification"
+  },
+  "16f6a74fab5ddec27763": {
+    "string": "Accounts"
+  },
+  "172625f7df94dfb0a651": {
+    "string": "Select Coin"
+  },
+  "17797bc4b97615cdff9c": {
+    "string": "Add Account"
+  },
+  "17838467208ce59925bc": {
+    "string": "Policy Url"
+  },
+  "1811ced08cbee1d5b876": {
+    "string": "File is invalid, {types} is required."
+  },
+  "181b5422fc07c7814df8": {
+    "string": "Serial"
+  },
+  "19a1a48d9aad0e3b7764": {
+    "string": "We are working on it, please check back later."
+  },
+  "1ae7d7cb9d8534874001": {
+    "string": "Value"
+  },
+  "1b45f39a1be69c40fba5": {
+    "string": "Two Factor Disabled."
+  },
+  "1ba878ffd9229de9c607": {
+    "string": "Transfer Note"
+  },
+  "1c094e9f566cb98c8008": {
+    "string": "Name"
+  },
+  "1d2c755f1ea4af656163": {
+    "string": "Drop or Select file"
+  },
+  "1d72786107f7a1a30c93": {
+    "string": "Verify Documents"
+  },
+  "1dbb85afbaddaba76dec": {
+    "string": "We have sent a 6-digit confirmation code to the provided email, please enter the code below."
+  },
+  "1e2992f5f2c57495e0e7": {
+    "string": "Change Mode"
+  },
+  "1ebee0d02337744f06fd": {
+    "string": "Exchange Rate"
+  },
+  "1f7783012418f176d5b3": {
+    "string": "Statistics"
+  },
+  "1f9f8d01712f4e9eb159": {
+    "string": "Balance"
+  },
+  "1fd2a8213d3737072df8": {
+    "string": "Sign in to {name}"
+  },
+  "2069c749ef846c94a007": {
+    "string": "Advance"
+  },
+  "2145d58c939438509752": {
+    "string": "Continue Shopping"
+  },
+  "21856d8a8de92dd41202": {
+    "string": "New Errors"
+  },
+  "2303651c7fc1a4cabf33": {
+    "string": "Ref: {reference}"
+  },
+  "2314b081891b8b1c54ed": {
+    "string": "${name} is required"
+  },
+  "231eaec2146e57929428": {
+    "string": "Enable paypal"
+  },
+  "235eea3586c913905dfe": {
+    "string": "Thank you for your purchase!"
+  },
+  "239e59a018d9500caf59": {
+    "string": "We need some information"
+  },
+  "23f24650ff990674fb26": {
+    "string": "File was uploaded."
+  },
+  "2422209232976a5ab86c": {
+    "string": "Username"
+  },
+  "2611e6cad8987a42f784": {
+    "string": "${name} must be exactly ${len} in length"
+  },
+  "263064f111fd68bfc62d": {
+    "string": "Register Account"
+  },
+  "268f2c2ffa2107d0200b": {
+    "string": "Search buyer..."
+  },
+  "27deb84622b95a69ffe7": {
+    "string": "Registered"
+  },
+  "27e6ee05ab1df40bbf60": {
+    "string": "Old Password"
+  },
+  "289800c5855c63e292d9": {
+    "string": "Mark As Seen"
+  },
+  "28df93834a2dc85605fc": {
+    "string": "Transfer Bank"
+  },
+  "294cf73dfc90a3e7c389": {
+    "string": "pending"
+  },
+  "29d6121e51c46b81d401": {
+    "string": "Users were activated."
+  },
+  "2b83908b206e95bea69c": {
+    "string": "View Stock"
+  },
+  "2c2e0910b3dc9e30b968": {
+    "string": "Make Default"
+  },
+  "2c89249e0c1b0294a9fc": {
+    "string": "Open Logs"
+  },
+  "2d124901c5ecc88f4739": {
+    "string": "Transaction Hash"
+  },
+  "2e018cd9d69c3ceb054e": {
+    "string": "Account Limits"
+  },
+  "2e1ef29f8a9478f31a5b": {
+    "string": "Get paid instantly via Bank Transfer"
+  },
+  "2f6ee535394f81030341": {
+    "string": "Contact one of our support agents."
+  },
+  "2f8b3e125ddfe7e057fb": {
+    "string": "Pay with {title}"
+  },
+  "2ffc2c3ae45fd726ee8e": {
+    "string": "{field} is not a valid number"
+  },
+  "309da3650c509d3a7e26": {
+    "string": "Total"
+  },
+  "31381bf87ff7436357c4": {
+    "string": "Sub Total"
+  },
+  "3160f5829ee1b463ef91": {
+    "string": "You will no longer have access to your {currency} payment account once changed."
+  },
+  "325cc47c187fd65c9bd6": {
+    "string": "Inventory"
+  },
+  "333fe0b1a2c3bc04a74b": {
+    "string": "Page Not Found"
+  },
+  "339f498575e4bbc5a08e": {
+    "string": "Manual"
+  },
+  "33ab7425acfdc8519219": {
+    "string": "You have not added any wallet."
+  },
+  "33ff731daa12b3951118": {
+    "string": "Withdrawal"
+  },
+  "34089d29b074be269fba": {
+    "string": "Notifications"
+  },
+  "349e0688ff2c4bda4047": {
+    "string": "View Purchases"
+  },
+  "35723f5cb498c1c3a904": {
+    "string": "Auto"
+  },
+  "35ece0601e0f2a91aa89": {
+    "string": "We will send you your receipt shortly via email."
+  },
+  "363f81326ba6f7120d38": {
+    "string": "Currency was updated successfully."
+  },
+  "3662bacf2e0a015f4f9c": {
+    "string": "Payment"
+  },
+  "36b8ea2e5459b6606a0f": {
+    "string": "Transfer Number"
+  },
+  "37136e1cad4da9b62d02": {
+    "string": "${name} cannot be greater than ${max}"
+  },
+  "3750e08ed960ea11cb73": {
+    "string": "Verified address"
+  },
+  "37622ba4c0c70c1252e6": {
+    "string": "Confirm"
+  },
+  "37e3e389008b1b12b6e3": {
+    "string": "${name} does not match pattern ${pattern}"
+  },
+  "385db752c363874e2bfb": {
+    "string": "Update {currency} Rate"
+  },
+  "388060bf1ec938ff7947": {
+    "string": "Brand was updated."
+  },
+  "3885992f56dd1128f06a": {
+    "string": "To Address"
+  },
+  "38e412e48e2c7fa7c9fa": {
+    "string": "Enter the verification code generated on your authenticator app."
+  },
+  "3911afd50eab2ff9783a": {
+    "string": "Created"
+  },
+  "3a1be767c0ac40bacb37": {
+    "string": "Sell order was created."
+  },
+  "3bde51dd9b55df6f4547": {
+    "string": "Phone"
+  },
+  "3c15332a8ad3b1fb6a59": {
+    "string": "We sent you a verification link."
+  },
+  "3c1c1ee7018e9e144420": {
+    "string": "No wallets yet."
+  },
+  "3c24ade53c139f1c3c11": {
+    "string": "Preferences"
+  },
+  "3c5b4ccbd9fbfaa3b2e4": {
+    "string": "Canceled"
+  },
+  "3c63874a090512686e23": {
+    "string": "You have not added a bank account yet."
+  },
+  "3d2f4d8814dec6f91e8a": {
+    "string": "You have not added a bank account."
+  },
+  "3d702eaf9052623dadfa": {
+    "string": "Withdraw"
+  },
+  "3da6c466a4e2380dc9b5": {
+    "string": "Purchase verified."
+  },
+  "3ded28811661205d089d": {
+    "string": "Theme"
+  },
+  "3e02461d301c00db0419": {
+    "string": "Available"
+  },
+  "3e0985b8718f3c71bb11": {
+    "string": "Users were deactivated."
+  },
+  "3f2d7cf4663d75f330cd": {
+    "string": "Security"
+  },
+  "3fb3cb5632dee1f1c323": {
+    "string": "Date"
+  },
+  "40008709ee1df68805ae": {
+    "string": "Currency was set as default."
+  },
+  "406548eb7b3574999c30": {
+    "string": "Agent"
+  },
+  "41505e26cb9b2f0ca298": {
+    "string": "Address was consolidated"
+  },
+  "415d5d965be573378297": {
+    "string": "Order created successfully."
+  },
+  "418264feec6bf442c0f4": {
+    "string": "Two Factor Enabled!"
+  },
+  "41b1ec9a8089c70e4cfd": {
+    "string": "Banks"
+  },
+  "42228a17310436dabb4c": {
+    "string": "Change Password"
+  },
+  "4226cd6775797e922d2b": {
+    "string": "Price: Low - High"
+  },
+  "425b0372ba084c7ff5a6": {
+    "string": "Action"
+  },
+  "432fd80f3a84946ce7d7": {
+    "string": "${name} must be between ${min} and ${max}"
+  },
+  "437cbca3365ceec901b1": {
+    "string": "Go to Home"
+  },
+  "43ac1c6795cce2f7441b": {
+    "string": "First Name"
+  },
+  "43c430e416755404f209": {
+    "string": "Description"
+  },
+  "43e6b895c8ccb7300b03": {
+    "string": "Edit Giftcard"
+  },
+  "44d4698c35b1d4de34f4": {
+    "string": "Crop"
+  },
+  "450f14e045f042366579": {
+    "string": "Currencies"
+  },
+  "454b575c425215b07007": {
+    "string": "Withdrawal Fees"
+  },
+  "462ffff0276dd329e55b": {
+    "string": "Add to Cart"
+  },
+  "4684b81f281270c88280": {
+    "string": "Generate New Address"
+  },
+  "47aef9ba5af573bf4e8c": {
+    "string": "You are buying"
+  },
+  "484351aaeb2c2987d86d": {
+    "string": "Help"
+  },
+  "485ba4d6f448e176a1b5": {
+    "string": "Permissions"
+  },
+  "48e3c47a0f55046e5802": {
+    "string": "Brand"
+  },
+  "49af6ec016047cffcc2b": {
+    "string": "Add Device"
+  },
+  "49db916454c75d16acd6": {
+    "string": "Search country..."
+  },
+  "49e6a7a716aff4ae1bc1": {
+    "string": "Required"
+  },
+  "4a1497e454b083aa49d1": {
+    "string": "User Activity"
+  },
+  "4bc0e0e8f27dc469cce4": {
+    "string": "Registrations"
+  },
+  "4c1a2faf1159818244b2": {
+    "string": "Month"
+  },
+  "4c3aee9e9e5f947dbc0e": {
+    "string": "Limits"
+  },
+  "4c4e1f2127284d05f9b1": {
+    "string": "City"
+  },
+  "4c8121c1bb7adf645956": {
+    "string": "Currency was added."
+  },
+  "4c870a259fbb92b80836": {
+    "string": "Cart is empty."
+  },
+  "4d50c0f9fc6d6d02563e": {
+    "string": "Account registered."
+  },
+  "4d57036f6108246bbcce": {
+    "string": "Bank Account"
+  },
+  "4d5f0cc40f56a68678ce": {
+    "string": "Verification Complete."
+  },
+  "4d7a4e062bb1b9d23fed": {
+    "string": "Customize"
+  },
+  "4d854d0bb49358bde72f": {
+    "string": "Select Bank"
+  },
+  "4dc71aee62155d088c3b": {
+    "string": "Auth"
+  },
+  "4ddbbc8c2baf1b4562eb": {
+    "string": "added {date}"
+  },
+  "4e1cbb098643a9951b7e": {
+    "string": "Change Brand"
+  },
+  "4ee04c1d796959a80488": {
+    "string": "Exchange Fees were updated."
+  },
+  "4efc2666ba48eae4a5b2": {
+    "string": "Hash"
+  },
+  "4f0c8c6ae34bdebfec2c": {
+    "string": "Account"
+  },
+  "4f11a250ffa2e80fe779": {
+    "string": "Two Factor Verification"
+  },
+  "4f5413f32ed6124709ec": {
+    "string": "Drop files here or click to browse."
+  },
+  "4f61fa0229c9f16ee44d": {
+    "string": "Account ({currency})"
+  },
+  "4fb472dfc43def7a46ad": {
+    "string": "Message"
+  },
+  "5048ea62fdcf391097a3": {
+    "string": "Crop Image"
+  },
+  "504ffe4b57535fece588": {
+    "string": "Sorry, page not found!"
+  },
+  "507b007cb5a5d80261ae": {
+    "string": "Select Group"
+  },
+  "50af273f90bafbf0a607": {
+    "string": "Trader"
+  },
+  "50b5c57cf2b016461672": {
+    "string": "Receive"
+  },
+  "5113fc3794d18fca9950": {
+    "string": "Reset Webhook"
+  },
+  "5133ae815f95aea5b812": {
+    "string": "Your Assets"
+  },
+  "529c1c15d4ee8a21b5fd": {
+    "string": "Unavailable"
+  },
+  "529d31422ef0483c9304": {
+    "string": "Recent Transaction"
+  },
+  "5304036a62bc3d122a0c": {
+    "string": "png, width: {width}px, ratio: 1"
+  },
+  "54fe7e091e304ef79718": {
+    "string": "Rank"
+  },
+  "55cc4cfbc80710860015": {
+    "string": "Search…"
+  },
+  "55f26c978649f0bf1140": {
+    "string": "Beneficiary"
+  },
+  "5617f578ed860c08da8e": {
+    "string": "2FA Authentication"
+  },
+  "56a08fca1eecdf0213cc": {
+    "string": "Transaction was approved."
+  },
+  "57320e29fd6e367eaf95": {
+    "string": "Reject"
+  },
+  "573cd82641e72cfc967e": {
+    "string": "Create"
+  },
+  "5789f4dd60e61b65bea3": {
+    "string": "Bank account was created."
+  },
+  "57a3640d09121165fb96": {
+    "string": "Upload photo"
+  },
+  "57f247966e4ab493235d": {
+    "string": "Forgot password?"
+  },
+  "58269fe426524edad430": {
+    "string": "Approve"
+  },
+  "583094d7ed712838a1ef": {
+    "string": "Email Verification"
+  },
+  "58ae9306ce396f9783fe": {
+    "string": "Create Role"
+  },
+  "58cfce7651eb2bd1d87b": {
+    "string": "You have {totalUnread} unread messages"
+  },
+  "59a0ef687b75485b83c2": {
+    "string": "until: {date}"
+  },
+  "59db1a1f8a5c301f3c80": {
+    "string": "Sorry, you are not authorized to access this page."
+  },
+  "5bbc373b805a16f72f81": {
+    "string": "Search text..."
+  },
+  "5c417e982f8e0ffe1678": {
+    "string": "Your Giftcards"
+  },
+  "5c71d1d3ca85c71b47ad": {
+    "string": "Data"
+  },
+  "5d9f33d0ff1db0c45283": {
+    "string": "Nothing here."
+  },
+  "5dad2434ca1f75ab1f9b": {
+    "string": "Verify Purchase"
+  },
+  "5dffc0eef83d8424e31b": {
+    "string": "Complete with token."
+  },
+  "5f7b37e36285b9d8d974": {
+    "string": "Brand was created."
+  },
+  "5f94bd1c251e44495e1c": {
+    "string": "Wallet transaction was relayed."
+  },
+  "60332b28a69d4f74176a": {
+    "string": "Users"
+  },
+  "60746da53be1d1decda2": {
+    "string": "Manage Locales"
+  },
+  "63041fa444410ad7cff9": {
+    "string": "Hi, welcome back."
+  },
+  "63b618baaca58538685e": {
+    "string": "Localization"
+  },
+  "643e3c4d6c3430dc761f": {
+    "string": "Resend code"
+  },
+  "66451c643404464d5de5": {
+    "string": "User Setup"
+  },
+  "66b958de10e4b38c703c": {
+    "string": "${name} is not a valid ${type}"
+  },
+  "66bb90e66b17627a1355": {
+    "string": "Settings was updated."
+  },
+  "66c81b5c28af8cf9446e": {
+    "string": "Search currency..."
+  },
+  "6751099f60b073101e10": {
+    "string": "${name} cannot be longer than ${max} characters"
+  },
+  "67589fe411852a933e01": {
+    "string": "Forgot Password"
+  },
+  "687729bc08f1b9a72fcd": {
+    "string": "Search name..."
+  },
+  "687e037b6636d24752b3": {
+    "string": "Source"
+  },
+  "68cc3161b27db37f2c28": {
+    "string": "Countries"
+  },
+  "69063be3397c7e89b26d": {
+    "string": "Verify your identity."
+  },
+  "691f2a30f328df446e8f": {
+    "string": "Search title..."
+  },
+  "69b7e8360f40d64cc5a4": {
+    "string": "Purchases"
+  },
+  "69cacea339b4f3110b4b": {
+    "string": "Continue"
+  },
+  "6a17907674748238dc77": {
+    "string": "Last Name"
+  },
+  "6b99acba1e4e469610f9": {
+    "string": "Yes"
+  },
+  "6be188e043b82427d55c": {
+    "string": "password does not match."
+  },
+  "6d003ae128bfbdb677b0": {
+    "string": "Change Direction"
+  },
+  "6d6ec1f3bc0516934e6a": {
+    "string": "New"
+  },
+  "6e1d46ad083563cc58c3": {
+    "string": "There are a total of {logs} system logs that needs your immediate attention."
+  },
+  "6e2c77e7e76289cd944f": {
+    "string": "Locale was removed."
+  },
+  "6e3137e4e6457cca3a45": {
+    "string": "Add Stock"
+  },
+  "6f25d7c957e3bb6b2944": {
+    "string": "Enter Amount"
+  },
+  "6f5cee37d2931c8aace1": {
+    "string": "Price"
+  },
+  "6f77b5df45b48e244899": {
+    "string": "Role was updated."
+  },
+  "6ff3e5a231de76449f1d": {
+    "string": "Deposit Method"
+  },
+  "70f8194bb87812258ad0": {
+    "string": "{field} is an invalid phone number"
+  },
+  "7145eea37c9151d7ab77": {
+    "string": "Your Purchases"
+  },
+  "7214e29aa1e0378452f9": {
+    "string": "We are currently not available in your country."
+  },
+  "72a94e6d3f2df6dea127": {
+    "string": "Clear All"
+  },
+  "72d63c0ea6f3479683d7": {
+    "string": "${name} must be one of [${enum}]"
+  },
+  "731b64e95647460cd98c": {
+    "string": "User was deactivated."
+  },
+  "732454d4d87c58e67119": {
+    "string": "Forgot your password?"
+  },
+  "73247b2a18ae694302e4": {
+    "string": "Back"
+  },
+  "7346f95d54a159ac9763": {
+    "string": "Rate"
+  },
+  "737e603394fb72e95d33": {
+    "string": "Roles"
+  },
+  "73a675a93c13477b0dcd": {
+    "string": "User was activated."
+  },
+  "746fa3b099236ccf8faf": {
+    "string": "Locales"
+  },
+  "7476952529d28f6819b1": {
+    "string": "There are no further requirements for now."
+  },
+  "7488013b3744659a5f15": {
+    "string": "Deposit"
+  },
+  "7494bc52573d044f6816": {
+    "string": "{fee} ({symbol})"
+  },
+  "74d47ca29a56fe29759b": {
+    "string": "You have no notifications yet."
+  },
+  "7511de60bdaa36884efa": {
+    "string": "Your profile was updated."
+  },
+  "75e11e1087ba6e396e2e": {
+    "string": "Register"
+  },
+  "76195bb621ded3d61755": {
+    "string": "Bank account was added."
+  },
+  "76a0f7f619e803f0a581": {
+    "string": "Yearly"
+  },
+  "773c8f6ba68771415987": {
+    "string": "Operation was successful."
+  },
+  "775aaf64d7caaefdc046": {
+    "string": "Search coin..."
+  },
+  "7779d99ba91ceb27a244": {
+    "string": "Enable email"
+  },
+  "786a655bcbfc131e28f8": {
+    "string": "Giftcard was removed."
+  },
+  "78a10bfe052a89930b96": {
+    "string": "Pending"
+  },
+  "79041c37d0144d74e080": {
+    "string": "You have enabled two factor."
+  },
+  "7a31067714941ac39fd7": {
+    "string": "Home"
+  },
+  "7a47ce695f1ca8a5661b": {
+    "string": "Go Back"
+  },
+  "7b2390f1d62c6ecf61d0": {
+    "string": "Requirement was created."
+  },
+  "7b4904b5215747753738": {
+    "string": "Deactivate"
+  },
+  "7b9e7bb59d22da7e5f95": {
+    "string": "Seen: {date}"
+  },
+  "7ba3e1e7e136d43989fa": {
+    "string": "Address"
+  },
+  "7bc1e2e11d697378c098": {
+    "string": "Payment Gateway"
+  },
+  "7bd67eb60815d1e3b608": {
+    "string": "Date of Birth"
+  },
+  "7cd08263b6e1ec6ee26a": {
+    "string": "Basic"
+  },
+  "7d3c925025b843e16509": {
+    "string": "Please select an account to get your deposit address."
+  },
+  "7defdb9d86e99a21e97f": {
+    "string": "(prices are in {currency})"
+  },
+  "7e6f7d5727f093d1309d": {
+    "string": "Basic Information"
+  },
+  "7eb378bf23cb9d787f07": {
+    "string": "Last Seen"
+  },
+  "7f022dd5711af7d21e9f": {
+    "string": "Newest"
+  },
+  "7fa50367825d5d6b76a8": {
+    "string": "Exchange Fee"
+  },
+  "80bdbe0b0f4df2d43765": {
+    "string": "Add Locale"
+  },
+  "81ac33a25025d71550e7": {
+    "string": "Country was removed."
+  },
+  "829caf56b5cea489760d": {
+    "string": "Click the button below to generate a deposit address."
+  },
+  "84ffc0e458a83786d371": {
+    "string": "Token was sent."
+  },
+  "854412c0c1adca7a7b86": {
+    "string": "Bank Name"
+  },
+  "85b4aa240647fd10699b": {
+    "string": "Bank"
+  },
+  "86205c21db833ec3684d": {
+    "string": "Out of Stock"
+  },
+  "87348d8f8fac82ca04b3": {
+    "string": "Dashboard"
+  },
+  "874003de23bf40ff4bde": {
+    "string": "Bank was updated."
+  },
+  "875f932f2723eafdbac2": {
+    "string": "Please enter the email address associated with your account to get a verification code."
+  },
+  "876be2a6e9d555d31023": {
+    "string": "Code"
+  },
+  "87dc78ef7f71b8b965e6": {
+    "string": "Update Rate"
+  },
+  "887375daec62a9f02d32": {
+    "string": "Admin"
+  },
+  "8987372dde37952a6d47": {
+    "string": "Payments"
+  },
+  "899a5cb4dde2e9adf6c6": {
+    "string": "Scan QR Code."
+  },
+  "89e4c8c35259e06f893b": {
+    "string": "Create a new account, fast and easy."
+  },
+  "8a3c81ff487e61a72ce4": {
+    "string": "Your attention is needed!"
+  },
+  "8abfcbed5f840c6840ef": {
+    "string": "Email was resent."
+  },
+  "8ad3e0c5d6c1cc2d85d5": {
+    "string": "Profile"
+  },
+  "8af351f2c47a70943d2b": {
+    "string": "Order Summary"
+  },
+  "8b03a570b01a7cfbf6d3": {
+    "string": "Deactivate Users"
+  },
+  "8b26b5a8c4a76089b67e": {
+    "string": "Profile Updated!"
+  },
+  "8bd488f677ce48d31bad": {
+    "string": "Create Brand"
+  },
+  "8c236910b1ea4c02c49c": {
+    "string": "Period"
+  },
+  "8c50ae97920483bb4ea5": {
+    "string": "Login was successful."
+  },
+  "8d67d6100398379052f8": {
+    "string": "Brands"
+  },
+  "8de27faf64a605dff670": {
+    "string": "User Account"
+  },
+  "8deb74cdf3e8cc24b10a": {
+    "string": "{field} cannot be negative"
+  },
+  "8ea3788e93463c583cc8": {
+    "string": "Invalid token or password."
+  },
+  "8efa34becde717452fae": {
+    "string": "Save"
+  },
+  "8f37123d620446878180": {
+    "string": "Fixed"
+  },
+  "8f74f6dc88d1d440e9ae": {
+    "string": "Confirmations"
+  },
+  "8fd29f47cf5f43b40560": {
+    "string": "${name} must be between ${min} and ${max} characters"
+  },
+  "8ff2e032fac21c393b59": {
+    "string": "Overwrite"
+  },
+  "90590f5819de0b323fcf": {
+    "string": "Number"
+  },
+  "9099e5b56866e87ef4a4": {
+    "string": "Brand was removed."
+  },
+  "90d28137fd7a6589168d": {
+    "string": "Search message..."
+  },
+  "91961a2c8b7849d26657": {
+    "string": "Logout was successful."
+  },
+  "91cd4cf743e64969e5b7": {
+    "string": "The words in the form of {one} and {two}, are placeholders and must not be changed across all locales."
+  },
+  "92a4e670b3f8a5f1a7c8": {
+    "string": "Enable sms"
+  },
+  "92efa60d4e8c796d0cc7": {
+    "string": "State"
+  },
+  "93193b77718ecaec277d": {
+    "string": "Verified email"
+  },
+  "93cd52d72e923ae2cff4": {
+    "string": "Logo"
+  },
+  "94220b37300c0738de96": {
+    "string": "Buy Now"
+  },
+  "943d75b46e4811adb1f5": {
+    "string": "Email verified."
+  },
+  "9528a6924ebe27a8e8f4": {
+    "string": "Scan this code with your preferred, authenticator app."
+  },
+  "95a3965dd7ed9c84da43": {
+    "string": "Don't have a code?"
+  },
+  "962a06178b433585bf90": {
+    "string": "Please enter your purchase code here. You will find it in the receipt of your purchase."
+  },
+  "962b71f60c94baa761a0": {
+    "string": "Native"
+  },
+  "964d8ba9d15df8c3d86f": {
+    "string": "Document was rejected."
+  },
+  "967696a3fbc21cc1798e": {
+    "string": "Region"
+  },
+  "96dc4ed4872b1d2f1065": {
+    "string": "Current Price"
+  },
+  "970436c5b1bd71f89f17": {
+    "string": "Edit Role"
+  },
+  "9789358741dd7aa4b06d": {
+    "string": "You don't have enough to trade."
+  },
+  "97cc1a9d46eff278f835": {
+    "string": "Joined"
+  },
+  "98b67e705bd2c3683267": {
+    "string": "Your email has been verified."
+  },
+  "98e146dcacbb34043257": {
+    "string": "Start"
+  },
+  "990cc7e5d4776df1f2a1": {
+    "string": "Assign Role"
+  },
+  "992e5a92c8e127778287": {
+    "string": "Thank you for your purchase! Its time to setup your account, and you are set for launch."
+  },
+  "997883e6e1bde8bbbc1a": {
+    "string": "Phone Number"
+  },
+  "998c7cb2f779905c84b7": {
+    "string": "Account Details"
+  },
+  "99c52185f6e33ae4f7e9": {
+    "string": "Reference"
+  },
+  "9c3c0f614c30e9eea452": {
+    "string": "Transfer Beneficiary"
+  },
+  "9ce93d9a1c46a54ca2f1": {
+    "string": "List"
+  },
+  "9d35352bd64b3a3234a9": {
+    "string": "Consolidate"
+  },
+  "9dd26a1bd347dcc2dd75": {
+    "string": "Check your email."
+  },
+  "9dd54fb50f471c39986e": {
+    "string": "Role was deleted."
+  },
+  "9f6044f3e4b0ef53bc22": {
+    "string": "File size must be between {min} and {max}."
+  },
+  "9fd7dd6899d4dc71a2eb": {
+    "string": "Unverified"
+  },
+  "a0b4dd728596b2a44185": {
+    "string": "Address was approved."
+  },
+  "a0db85c14073e76d823a": {
+    "string": "You have updated your profile."
+  },
+  "a13f4f66409f836a6a21": {
+    "string": "Buy & Sell Crypto with Credit Card"
+  },
+  "a145800e53a326d880f4": {
+    "string": "No"
+  },
+  "a1914cc8764f6b7f2b5b": {
+    "string": "Buy & Sell"
+  },
+  "a22322fb3c7a40cacbc5": {
+    "string": "Wallets"
+  },
+  "a2440dc8ccda5fab4218": {
+    "string": "Price Interval"
+  },
+  "a340fc2daa5b977a343f": {
+    "string": "Two Factor"
+  },
+  "a3c7908a4d7d6684f7b6": {
+    "string": "Available: {available}"
+  },
+  "a4e5bd90756b2b59c633": {
+    "string": "There was an unexpected error, please try again later."
+  },
+  "a5a421146ecf1e6b09a1": {
+    "string": "Buy order was created."
+  },
+  "a645b04888bc3d402809": {
+    "string": "Get started in few steps."
+  },
+  "a6532c10094c40791f08": {
+    "string": "Deactivated"
+  },
+  "a6f5dec044a44dda9792": {
+    "string": "Scan the barcode on the left hand side, or manually enter your secret token."
+  },
+  "a6fb27dd9e13b5863e19": {
+    "string": "Get Support"
+  },
+  "a753fe850abab582657f": {
+    "string": "Request"
+  },
+  "a8c78f3c68841b88a3b9": {
+    "string": "Note"
+  },
+  "a95191204c2fc23ad204": {
+    "string": "Quantity"
+  },
+  "a9f57da8f639025f8e07": {
+    "string": "Deactivate User"
+  },
+  "aa1ecadb44f0b41effa3": {
+    "string": "Latest Users"
+  },
+  "ab56f28d66205c64680e": {
+    "string": "Confirm Deposit"
+  },
+  "ab95e5d0c21d52314836": {
+    "string": "Verify"
+  },
+  "ac0866fc4e54dd24f916": {
+    "string": "Update Social Links"
+  },
+  "ac7aa6687fe3929c9510": {
+    "string": "Deposit request was created."
+  },
+  "ac8009944295c3d1a092": {
+    "string": "Added"
+  },
+  "ad1c8cc89b16f7d100a9": {
+    "string": "New Infos"
+  },
+  "ad72d2a615dea3435445": {
+    "string": "Confirm Transfer"
+  },
+  "ada7b1c4c8a869cc723f": {
+    "string": "Submitted"
+  },
+  "adaa8ac24d5cb57c93c8": {
+    "string": "${name} cannot be greater than ${max} in length"
+  },
+  "adbada84e18c0b7437c2": {
+    "string": "Close"
+  },
+  "ae34f8bb125165d3eff6": {
+    "string": "Quota"
+  },
+  "ae653bcb7590ba7ea653": {
+    "string": "Giftcard"
+  },
+  "aec7abfa24382e8daaa8": {
+    "string": "${name} could not be parsed as date"
+  },
+  "aef8ab336dfc644ac7a1": {
+    "string": "Location"
+  },
+  "af1da6fa22f46efc9cb8": {
+    "string": "Sell Now"
+  },
+  "af4d9ff0659dd399bc56": {
+    "string": "${name} is invalid for format date"
+  },
+  "b064f4d5aa97d4cc2a10": {
+    "string": "Buyer"
+  },
+  "b0cd3826934748c8cdc0": {
+    "string": "Internal Error"
+  },
+  "b11a78504f34aa4dcfa5": {
+    "string": "Landing"
+  },
+  "b14f9b7c6755aa40aff3": {
+    "string": "Giftcard was updated."
+  },
+  "b2741c803a7afb43b961": {
+    "string": "Create Giftcard"
+  },
+  "b3057fe8e5b9a8b00553": {
+    "string": "Edit Document"
+  },
+  "b3211014429f92e87721": {
+    "string": "Publish"
+  },
+  "b32fa9bf953d96c166f3": {
+    "string": "Email"
+  },
+  "b3aa4bc60ea554204dd8": {
+    "string": "Document was approved."
+  },
+  "b3c06700208a60bd7b34": {
+    "string": "Swap"
+  },
+  "b6320e619e78f14ba0b0": {
+    "string": "You are sending"
+  },
+  "b6490a921c31a86ef3db": {
+    "string": "Exchange"
+  },
+  "b6d853a122c5e5933628": {
+    "string": "Disabled"
+  },
+  "b7330d1778d6a14c69f2": {
+    "string": "Status"
+  },
+  "b7af30abb95e0196ac3b": {
+    "string": "Wallet webhook was reset."
+  },
+  "b7b726322ce65db9d891": {
+    "string": "Grid data was saved."
+  },
+  "b811dddcf436a9559b4c": {
+    "string": "Transaction was rejected."
+  },
+  "b8293cafe9dd6eb2c39f": {
+    "string": "Already have an account?"
+  },
+  "b93e0e94f956c347783a": {
+    "string": "Fee"
+  },
+  "ba683af46ddae6c7a375": {
+    "string": "Add Wallet"
+  },
+  "bad7e28a2d0d09e813b1": {
+    "string": "By registering, you agree to our"
+  },
+  "bb34c91af17625f4cb8d": {
+    "string": "Sent {value} {symbol}!"
+  },
+  "bb9728b28f6378a564f3": {
+    "string": "Add Currency"
+  },
+  "bc1953eb2ccaffa51e41": {
+    "string": "Documents"
+  },
+  "bc69437ccc4f1d3cbf3e": {
+    "string": "Picture was uploaded."
+  },
+  "bce362f8e320867ba02e": {
+    "string": "Country"
+  },
+  "bdd518aee855d9fe850a": {
+    "string": "Clear Filter"
+  },
+  "bdf1be9e10a67576e85f": {
+    "string": "Confirm Password"
+  },
+  "be16a2bd83b586c0f41d": {
+    "string": "Price: High - Low"
+  },
+  "be4ee83ea4621d2802e1": {
+    "string": "Verifications"
+  },
+  "be4f4586d010c6f14cd5": {
+    "string": "Sorry, we could not find the page you’re looking for."
+  },
+  "be73e8dea21cbb4d0034": {
+    "string": "Publish was successful."
+  },
+  "bee2ab95605a237342c2": {
+    "string": "Stock"
+  },
+  "bf1d27919f31a72d42f1": {
+    "string": "Privacy Policy"
+  },
+  "bf4f47e3bdc6c1da882a": {
+    "string": "We have sent a 6-digit confirmation code to {phone}, please enter the code below."
+  },
+  "bf53eacaaa46ea28058d": {
+    "string": "${name} must be exactly ${len} characters"
+  },
+  "bf75ac31d0ef86a8dd69": {
+    "string": "No deposit address."
+  },
+  "c044030ba5afdffea22c": {
+    "string": "Edit"
+  },
+  "c07dd7fa79274e707172": {
+    "string": "Bank Accounts"
+  },
+  "c0d32aecbce8f8ff3a82": {
+    "string": "Search user..."
+  },
+  "c0df273c1dba522d205d": {
+    "string": "User was updated."
+  },
+  "c12651e3b63992312515": {
+    "string": "Submit"
+  },
+  "c15bd53abbdb827a1b1d": {
+    "string": "New Warnings"
+  },
+  "c1621611fe3568b74c40": {
+    "string": "${name} is invalid date"
+  },
+  "c18b2fe191eef8169327": {
+    "string": "Monthly"
+  },
+  "c2d91b3648eeb4166c3c": {
+    "string": "{deductible} ({symbol})"
+  },
+  "c2fa901f1a6ca43cd107": {
+    "string": "Set your new password."
+  },
+  "c49143ef71fc68dde67e": {
+    "string": "select account..."
+  },
+  "c4bb3b25b26921a9e780": {
+    "string": "Change photo"
+  },
+  "c518d752bc34a9a38418": {
+    "string": "Monthly Statistics"
+  },
+  "c59a2a119aa3e7433ee3": {
+    "string": "Country Unsupported"
+  },
+  "c6407ef195fd9a73ed74": {
+    "string": "Unit"
+  },
+  "c65dbb9dc473cf5bc30d": {
+    "string": "Reset Password"
+  },
+  "c66715674054eb772c3a": {
+    "string": "Search"
+  },
+  "c681590db0353c15a9c2": {
+    "string": "Enter two factor code."
+  },
+  "c698123782e907678b1d": {
+    "string": "This stage requires some of your account information to be completed, the validity will be checked during advanced verification."
+  },
+  "c6d3eb2544719ec285e2": {
+    "string": "Allowed *.jpeg, *.jpg, *.png"
+  },
+  "c714312c4fb19d111bea": {
+    "string": "Email Address"
+  },
+  "c74f11ae60cd934487b5": {
+    "string": "Add Country"
+  },
+  "c7921da6b9cbd000daea": {
+    "string": "Content was added."
+  },
+  "c7ab86f230b1101f2a04": {
+    "string": "No giftcards yet."
+  },
+  "c819ed4cca6a29199871": {
+    "string": "To enable multi-factor authentication with time-based one time password (TOTP) generation, register your mobile device:"
+  },
+  "c8f83cb3a01e536728dd": {
+    "string": "Until"
+  },
+  "c99271552268b145f86f": {
+    "string": "Developer"
+  },
+  "cae8b2112f2c392a2889": {
+    "string": "General Settings"
+  },
+  "cb19c176aefd97ce4776": {
+    "string": "ISO-2 Code"
+  },
+  "cb542bf35d4fcac2ba93": {
+    "string": "Level"
+  },
+  "cc57a00c3c088496aedd": {
+    "string": "Contact"
+  },
+  "cc7a6fcc5b5416240765": {
+    "string": "Total Balance"
+  },
+  "cca40bebe97e66e680b5": {
+    "string": "You don't have enough {coin} to send."
+  },
+  "ccae2c132fbb992026fa": {
+    "string": "Search brand..."
+  },
+  "ccb7f1755dd660f6bbeb": {
+    "string": "Exchange transactions are executed by the most recent {operator} user. You should make sure that the {operator} role is only assigned to the account you have access to."
+  },
+  "cd23af2342ced278d954": {
+    "string": "Filters"
+  },
+  "ce12e448afa6d7169633": {
+    "string": "Your address was updated."
+  },
+  "ce3968732183c5f6b428": {
+    "string": "Require user setup after registration"
+  },
+  "cebba1c42d15fced6457": {
+    "string": "{selection} selected"
+  },
+  "cf0343c4685f4b9009fe": {
+    "string": "Your Cart"
+  },
+  "cf1be19c44e69f662a3d": {
+    "string": "Daily"
+  },
+  "cf5bb645fa3e4a7e8c51": {
+    "string": "Search bank..."
+  },
+  "cfb168cc776bf4ac7f9e": {
+    "string": "${name} cannot be less than ${min} in length"
+  },
+  "d03f02b189f3f28f4847": {
+    "string": "Validation error on field ${name}"
+  },
+  "d1364c8d0eed99fd75af": {
+    "string": "Oldest"
+  },
+  "d13799030243fa6d453b": {
+    "string": "Edit Bank"
+  },
+  "d24c6b3212fcc05b874a": {
+    "string": "Control Panel"
+  },
+  "d2c1c932a02083078f59": {
+    "string": "${name} must be at least ${min} characters"
+  },
+  "d379e3c821f2f9bd3e8d": {
+    "string": "Look like you have no items in your shopping cart."
+  },
+  "d3dfe817e0feb6e20b31": {
+    "string": "Install an authenticator app such as {authy} or {google}"
+  },
+  "d3e0d3124200342d87d4": {
+    "string": "Resend Email"
+  },
+  "d3e9f71801e622923acc": {
+    "string": "Edit Translation"
+  },
+  "d3eebe8cf98a8a67e227": {
+    "string": "Select account"
+  },
+  "d577e9cc8602f279b5a2": {
+    "string": "Change Color"
+  },
+  "d6210f4cc0ea9a2fce7c": {
+    "string": "General"
+  },
+  "d6df3e2940057a6ba838": {
+    "string": "Verified documents"
+  },
+  "d78b0456eabe29be3789": {
+    "string": "Earnings"
+  },
+  "d78e847e45b3de4b8e0b": {
+    "string": "Wallet was added."
+  },
+  "d7d02c453846c989e87e": {
+    "string": "${name} must equal ${len}"
+  },
+  "d914599cfff4266fd3ef": {
+    "string": "Other Settings"
+  },
+  "d917a715528c4604cf04": {
+    "string": "Add Bank"
+  },
+  "d96d1ff61ca6322554ac": {
+    "string": "Bio"
+  },
+  "d9725233e1cd955ae1d5": {
+    "string": "Submit Address"
+  },
+  "da648e97bb639cccec77": {
+    "string": "The withdrawal fees are sent to the most recent {operator} user. You should make sure that the {operator} role is only assigned to the account you have access to."
+  },
+  "da731337d7d7001b927a": {
+    "string": "Giftcards"
+  },
+  "da809aca6c6fc99cf343": {
+    "string": "Are you sure?"
+  },
+  "db1b67ea4acfa2d6bc79": {
+    "string": "Withdrawal request was created."
+  },
+  "db8e32a6230d0cf3713a": {
+    "string": "Update Profile"
+  },
+  "db95b0c45f3f67843663": {
+    "string": "Don't have an account?"
+  },
+  "dbfdb283ea80c29851c3": {
+    "string": "Add"
+  },
+  "dc62d07827034386de7a": {
+    "string": "Access Forbidden!"
+  },
+  "dd1c7a428d71fb57f9b0": {
+    "string": "Advanced"
+  },
+  "dd523d9add739b40db26": {
+    "string": "Save Changes"
+  },
+  "dd6c7d44c5c2cde56f95": {
+    "string": "No wallets!"
+  },
+  "ddae702fcc28e34cccf9": {
+    "string": "Active"
+  },
+  "de6bcbd90ff00c604a83": {
+    "string": "and"
+  },
+  "de8e0b32f34339495c5f": {
+    "string": "Hi, {name}"
+  },
+  "df27f63432d0e6a96824": {
+    "string": "Operator"
+  },
+  "df293c7c19afa812aa0c": {
+    "string": "Wallet"
+  },
+  "df6ac134a3f4cf5b89dd": {
+    "string": "Terms of Service"
+  },
+  "dfd64a8391fc0993ca52": {
+    "string": "Withdrawals"
+  },
+  "dfea40e0650424d7c99f": {
+    "string": "Feature Limit"
+  },
+  "e0ad4835e43ff9d38078": {
+    "string": "Your Balance"
+  },
+  "e150eefb9620bd01541e": {
+    "string": "Upload Logo"
+  },
+  "e39b22ae8ff9d4536abe": {
+    "string": "What's this transaction for? (optional)"
+  },
+  "e3b158c1b6be6c8bd456": {
+    "string": "Cancel"
+  },
+  "e42c00d473419d2354eb": {
+    "string": "On Trade"
+  },
+  "e44f43717fa79b64c18f": {
+    "string": "Instruction"
+  },
+  "e4cd7785689a9ffe7335": {
+    "string": "Deposits"
+  },
+  "e59c408983a2e690abcf": {
+    "string": "Token"
+  },
+  "e637aaf0f25983b53aff": {
+    "string": "Unknown"
+  },
+  "e63ea9db983bc5d7bb0d": {
+    "string": "Rank is used to set the priority of roles, with the lesser value having greater priority."
+  },
+  "e6a683eec0d5c6e88657": {
+    "string": "Rejected"
+  },
+  "e6c83b282aeb2e022844": {
+    "string": "Password"
+  },
+  "e6edbb0b7f75ed926370": {
+    "string": "We are not available in your country."
+  },
+  "e7985d432e2e1ce8892e": {
+    "string": "Currency"
+  },
+  "e8a9854667611a2c1fbf": {
+    "string": "Confirm Withdrawal"
+  },
+  "e9714efc2c3b2ddc4ced": {
+    "string": "Approved"
+  },
+  "e9b31f233923839622bc": {
+    "string": "Verify Code"
+  },
+  "e9e7b56572587385570f": {
+    "string": "Upload Favicon"
+  },
+  "ea34fedba6f68a5c4e33": {
+    "string": "Verify Address"
+  },
+  "eaccc340f2789bcc4300": {
+    "string": "Bank was removed."
+  },
+  "eb6a26daab77a76eeffe": {
+    "string": "Withdrawal Fees were updated."
+  },
+  "ec64789210f6295bb56a": {
+    "string": "Select Account"
+  },
+  "ece5bc0530f38b2edb31": {
+    "string": "Configuration"
+  },
+  "ed1e42e0d64a34877ede": {
+    "string": "Email Verified!"
+  },
+  "ed35935277feb3ced446": {
+    "string": "Reset Token"
+  },
+  "ee761f53100747f962a4": {
+    "string": "There are no new wallets available."
+  },
+  "ef49ddc519b8b594b43e": {
+    "string": "Edit Brand"
+  },
+  "ef5d4f04b05050271f6f": {
+    "string": "Bank was created."
+  },
+  "ef9df25f99de70746b3a": {
+    "string": "Label"
+  },
+  "efb5b15a8736dc811014": {
+    "string": "Withdrawal Fee"
+  },
+  "f029c26b5be9665bcae4": {
+    "string": "Translation was updated."
+  },
+  "f046c8c4c2f28867aad4": {
+    "string": "This stage requires a manual verification by our support agents. Your data is kept private and encrypted within the system."
+  },
+  "f093d4ce3e9a97fe5c56": {
+    "string": "We highly recommend securing your account with 2FA."
+  },
+  "f0b6c37987c273efd068": {
+    "string": "Password was reset."
+  },
+  "f1dea48a8b653f3fe096": {
+    "string": "Sort By"
+  },
+  "f2655cb348ec707d8d1b": {
+    "string": "Verify Email"
+  },
+  "f29f9b67a1fb55d127ce": {
+    "string": "Complete profile"
+  },
+  "f2a6781c4fdbbccb4910": {
+    "string": "Copied to clipboard."
+  },
+  "f3b931fa67ef1647e278": {
+    "string": "Bank account was removed."
+  },
+  "f40817a33fc9f83ba19a": {
+    "string": "Sell"
+  },
+  "f4250526e3c82de00b33": {
+    "string": "We have sent a 6-digit confirmation code to {email}, please enter the code below."
+  },
+  "f4f06d0e0d2a8e123d81": {
+    "string": "Locale was added."
+  },
+  "f505e6d445bdab358ff1": {
+    "string": "Get Started"
+  },
+  "f512c45ec8aa046f42a7": {
+    "string": "Pay with Bank Transfer"
+  },
+  "f564651784768260f38d": {
+    "string": "Send"
+  },
+  "f5751842d26fc057b92c": {
+    "string": "Import"
+  },
+  "f5af7ec305b2e2e508d7": {
+    "string": "Title"
+  },
+  "f62bce9b7b2141c26237": {
+    "string": "Unexpected Error"
+  },
+  "f63de15cee0e8db572c7": {
+    "string": "To"
+  },
+  "f68d9113a5c847feced0": {
+    "string": "Nothing here!"
+  },
+  "f6a1d7b03ea769d74949": {
+    "string": "Currency was removed."
+  },
+  "f79b2d3ea0a77eecfb89": {
+    "string": "Completed"
+  },
+  "f7db63c86b4c0f51c0df": {
+    "string": "IP"
+  },
+  "f7e0ddb6e0aa2f082547": {
+    "string": "Next"
+  },
+  "f7f3badb5b48cc413f80": {
+    "string": "Buy Giftcards with Crypto"
+  },
+  "f8dd76e078ba63456e81": {
+    "string": "Trade was canceled."
+  },
+  "f9385973377f122260aa": {
+    "string": "Verify with token."
+  },
+  "f94ea8cdc9efe2b9caff": {
+    "string": "Type"
+  },
+  "f9bf5e55e2e0cc766d17": {
+    "string": "... and many more to come!"
+  },
+  "fa559020947996207b69": {
+    "string": "Marketplace"
+  },
+  "fa562433f1be16a3ccd9": {
+    "string": "Adapter"
+  },
+  "fb365b6fb5b1fe81f4a5": {
+    "string": "Verified phone"
+  },
+  "fba3b0d32a4ed14d3510": {
+    "string": "Enable Two Factor"
+  },
+  "fd36f2be6911d89d7cde": {
+    "string": "Role was created"
+  },
+  "fd509be4bacf0010bde9": {
+    "string": "Email or coin address"
+  },
+  "fd59c3325f35ae103576": {
+    "string": "Other"
+  },
+  "fd5c222d3326cf2a0092": {
+    "string": "Total Users"
+  },
+  "fda04b1f62b2b6e74be1": {
+    "string": "Get started"
+  },
+  "fda7fe8d0f31bd6681f0": {
+    "string": "Mark all as read"
+  },
+  "fdfb28a1e526d30aa083": {
+    "string": "${name} cannot be less than ${min}"
+  },
+  "fe324b6329a769ee5a86": {
+    "string": "Transactions"
+  },
+  "fe3cd448e5eaf3a749ec": {
+    "string": "Requirement was updated."
+  },
+  "fe8f22b83f508814751b": {
+    "string": "No Record!"
+  },
+  "feacf2dc4dc031c51ea2": {
+    "string": "Please check your email."
+  },
+  "ff037a3e24e5919f07ff": {
+    "string": "Enter your details below."
+  },
+  "ff44ce2f98a77dd22a67": {
+    "string": "Amount"
+  }
+}

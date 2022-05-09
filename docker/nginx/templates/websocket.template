@@ -1,0 +1,12 @@
+server {
+    listen 6001;
+    listen [::]:6001;
+
+    server_name ${APP_DOMAIN} www.${APP_DOMAIN};
+
+    if ($disabled_websocket) {
+        return 503;
+    }
+
+    include /etc/nginx/includes/websocket;
+}

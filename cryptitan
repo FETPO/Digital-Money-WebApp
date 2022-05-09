@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+export PHP_VERSION=${PHP_VERSION:-"8.0"}
+export COMPOSER_VERSION=${COMPOSER_VERSION:-"2"}
+SERVER=./vendor/neoscrypts/server/bin/server
+
+INSTALL_PACKAGES="docker run --rm \
+-u $(id -u):$(id -g) \
+-v $(pwd):/app \
+neoscrypts/composer:${COMPOSER_VERSION}-${PHP_VERSION} composer install"
+
+if [ ! -f "$SERVER" ]; then
+	eval "$INSTALL_PACKAGES"
+fi
+
+if [ $# -gt 0 ]; then
+	if [ "$1" == "update" ]; then
+		eval "$SERVER" pull
+		eval "$SERVER" stop
+		eval "$INSTALL_PACKAGES"
+		eval "$SERVER" build
+	elif [ "$1" == "recreate" ]; then
+		eval "$SERVER" up -d --force-recreate
+	else
+		eval "$SERVER" "$@"
+	fi
+fi
+

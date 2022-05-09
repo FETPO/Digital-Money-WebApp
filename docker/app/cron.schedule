@@ -1,0 +1,5 @@
+# > Write your cron tasks below
+
+* * * * * /usr/local/bin/php /var/www/html/artisan schedule:run >/dev/null 2>&1
+
+# > Leave an empty line after

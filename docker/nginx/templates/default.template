@@ -1,0 +1,13 @@
+server {
+    listen 80 default_server;
+    listen [::]:80 default_server;
+
+    server_name ${APP_DOMAIN} www.${APP_DOMAIN};
+
+    location ~ /.well-known/acme-challenge {
+        allow all;
+        root /var/www/certbot;
+    }
+
+    include ${NGINX_DEFAULT_SERVER};
+}

@@ -1,0 +1,109 @@
+version: '3'
+services:
+    application:
+        build:
+            context: ./docker/app
+            dockerfile: Dockerfile
+            args:
+                APP_ENV: '${APP_ENV}'
+                COMPOSER_VERSION: '${COMPOSER_VERSION:-2}'
+                PHP_VERSION: '${PHP_VERSION:-7.4}'
+                HOST_GID: '${HOST_GID:-1000}'
+        restart: unless-stopped
+        environment:
+            VIRTUAL_HOST: 'app.${APP_DOMAIN}'
+            VIRTUAL_HTTP_PORT: '${APP_HTTP_PORT:-8080}'
+            HOST_UID: '${HOST_UID:-1000}'
+            APP_ENV: '${APP_ENV}'
+            APP_SCHEDULE: '${APP_SCHEDULE:-false}'
+            WORK_QUEUE: ${WORK_QUEUE:-false}
+            WORK_WEBSOCKET: ${WORK_WEBSOCKET:-false}
+            WORK_OCTANE: ${WORK_OCTANE:-false}
+        volumes:
+            - '.:/var/www/html'
+        networks:
+            - neoscrypts
+            - nginx-proxy
+        depends_on:
+            - mysql
+            - redis
+            - pgsql
+    nginx:
+        build:
+            context: ./docker/nginx
+            dockerfile: Dockerfile
+        restart: unless-stopped
+        environment:
+            VIRTUAL_HOST: '${APP_DOMAIN},www.${APP_DOMAIN}'
+            VIRTUAL_HTTP_PORT: '${NGINX_HTTP_PORT:-""}'
+            VIRTUAL_HTTPS_PORT: '${NGINX_HTTPS_PORT:-""}'
+            APP_DOMAIN: '${APP_DOMAIN:-localhost}'
+            NGINX_DEFAULT_CONFIG: '${NGINX_DEFAULT_CONFIG}'
+            NGINX_DEFAULT_SERVER: '${NGINX_DEFAULT_SERVER}'
+            NGINX_WEBSOCKET_CONFIG: '${NGINX_WEBSOCKET_CONFIG}'
+            WEBSOCKET_ENABLE: '${WEBSOCKET_ENABLE}'
+        volumes:
+            - '.:/var/www/html'
+            - '${HOME}/www/certbot:/var/www/certbot'
+            - '${HOME}/lib/letsencrypt:/var/lib/letsencrypt'
+            - '${HOME}/letsencrypt:/etc/letsencrypt'
+        networks:
+            - neoscrypts
+            - nginx-proxy
+        depends_on:
+            - application
+        healthcheck:
+            test: ["CMD-SHELL", "service nginx status || exit 1"]
+    mysql:
+        image: 'mysql:8'
+        restart: unless-stopped
+        environment:
+            MYSQL_DATABASE: '${DB_DATABASE}'
+            MYSQL_USER: '${DB_USERNAME}'
+            MYSQL_PASSWORD: '${DB_PASSWORD}'
+            MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
+        volumes:
+            - 'neoscrypts-mysql:/var/lib/mysql'
+        networks:
+            - neoscrypts
+        cap_add:
+            - SYS_NICE
+        healthcheck:
+            test: ["CMD", "mysqladmin", "ping", "-p${DB_PASSWORD}"]
+    redis:
+        build:
+            context: ./docker/redis
+            dockerfile: Dockerfile
+        restart: unless-stopped
+        volumes:
+            - 'neoscrypts-redis:/data'
+        networks:
+            - neoscrypts
+        healthcheck:
+            test: ["CMD", "redis-cli", "ping"]
+    pgsql:
+        image: 'postgres:13'
+        restart: unless-stopped
+        environment:
+            POSTGRES_DB: '${DB_DATABASE}'
+            POSTGRES_USER: '${DB_USERNAME}'
+            POSTGRES_PASSWORD: '${DB_PASSWORD:-secret}'
+            PGPASSWORD: '${DB_PASSWORD:-secret}'
+        volumes:
+            - 'neoscrypts-pgsql:/var/lib/postgresql/data'
+        networks:
+            - neoscrypts
+        healthcheck:
+            test: ["CMD", "pg_isready", "-q", "-d", "${DB_DATABASE}", "-U", "${DB_USERNAME}"]
+networks:
+    nginx-proxy:
+        external: true
+    neoscrypts:
+        driver: bridge
+volumes:
+    neoscrypts-mysql:
+        driver: local
+    neoscrypts-redis:
+        driver: local
+    neoscrypts-pgsql:
+        driver: local
