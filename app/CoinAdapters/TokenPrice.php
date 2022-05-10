@@ -13,6 +13,7 @@ trait TokenPrice
      * Initialize Http client
      *
      * @return PendingRequest
+     
      */
     protected function coinGeckoClient()
     {
