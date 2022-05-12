@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env  bash
 set -euo pipefail
 
 export PHP_VERSION=${PHP_VERSION:-"8.0"}
